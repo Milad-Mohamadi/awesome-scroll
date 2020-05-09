@@ -1,0 +1,16 @@
+body {
+  font-family: "Montserrat";
+  padding: 3em;
+}
+
+#video {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+}
+
+#set-height {
+  display: block;
+}
+
